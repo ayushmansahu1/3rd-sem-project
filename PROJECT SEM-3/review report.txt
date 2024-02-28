@@ -1,0 +1,36 @@
+*This c programming based apllication is developed to manage and access
+ contacts more faster, it is created to reduce data loss and can also 
+ use to add more and more information with this.
+
+
+
+
+   KENGUVA VINEESHA
+       22CSE096
+MOHAMMAD JAFFAR HUSSAIN
+       22CSE101
+
+
+3rd Aug 2023 to 
+20th Sep 2023 
+
+
+
+
+
+*Phonebook is a simple C mini-project . This program will show you how to add, list, modify
+ search, and delete data from and into a file.
+*Personal information, such as name, gender, father name, mother name, phone number, email address
+ and address, is required to add a login to the phonebook. 
+*The application program has been successfully implemented using experimental
+ cases and the language used in c.
+
+
+
+
+
+
+*Phonebook is a simple C mini-project . This program will show you how to add, list, modify
+ search, and delete data from and into a file.
+*Personal information, such as name, gender, father name, mother name, phone number, email address
+ and address can be stored .
